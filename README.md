@@ -39,3 +39,7 @@ You need to submit the github directory link for the assignment
 Any good visualization tools usage in colab will be appreciated as well to do interactive display like https://pair-code.github.io/understanding-umap/
 
 b) Demonstrate dimensionality reduction using data bricks
+
+solution:
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3945773770810786/3659251999875120/1358104250152794/latest.html
